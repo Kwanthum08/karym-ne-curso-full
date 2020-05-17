@@ -1,0 +1,27 @@
+{
+  "name": "karym-ne-curso-full",
+  "version": "0.1.0",
+  "description": "Este modulo permite generar un pie de pagina dinamico, generado para aplicaciones JS con un nombre y año actualizado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwanthum08/karym-ne-curso-full.git"
+  },
+  "keywords": [
+    "pie",
+    "de",
+    "pagina"
+  ],
+  "author": "karym_ne <navaelizalde@hotmail.com> (https://www.npmjs.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kwanthum08/karym-ne-curso-full/issues"
+  },
+  "homepage": "https://github.com/Kwanthum08/karym-ne-curso-full#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
